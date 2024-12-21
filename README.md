@@ -45,6 +45,7 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Front-E
 </p>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/Inte6cept0r/count.svg)
-
+<div style="display: flex; justify-content: center; gap: 40px;">
+  ![Visitor Count](https://profile-counter.glitch.me/Inte6cept0r/count.svg)
+</div>
 ✨ _Let’s build, secure, and innovate together!_
