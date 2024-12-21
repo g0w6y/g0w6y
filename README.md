@@ -43,9 +43,10 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Front-E
 </p>
 
 ---
+<h2>📊 Profile Views</h2>
 <div align="center">
-  <h2>📊 Profile Views</h2>
   <img src="https://profile-counter.glitch.me/Inte6cept0r/count.svg" alt="Visitor Count" />
 </div>
 
+### 
 ✨ _Let’s build, secure, and innovate together!_
