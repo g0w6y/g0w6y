@@ -27,9 +27,6 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Front-E
   <div style="display: flex; justify-content: center; gap: 40px;">
     <!-- GitHub Stats Card -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inte6cept0r&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
----
-
     <!-- GitHub Streak Card -->
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Inte6cept0r&theme=radical&hide_border=true" alt="GitHub Streak" />
   </div>
