@@ -1,8 +1,5 @@
 <h1 align="center">👨‍💻 Gouri Sankar A [ Inte6cept0r ] </h1>
 
-
-![Visitor Count](https://profile-counter.glitch.me/Inte6cept0r/count.svg)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Front-End+Web+Developer;Python+%7C+MySQL+Programmer;Aspiring+Advanced+Bug+Hunter;Always+Up+for+Collaboration!" alt="Typing Animation">
 </p>
@@ -48,5 +45,6 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Front-E
 </p>
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/Inte6cept0r/count.svg)
 
 ✨ _Let’s build, secure, and innovate together!_
