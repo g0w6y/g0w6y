@@ -35,6 +35,15 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Front-E
 
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3" />
+</div>
+
+---
+
 ### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://github.com/Inte6cept0r" target="_blank">
