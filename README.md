@@ -7,8 +7,8 @@
 ---
 
 ### 🛠️ **About Me**
-Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Front-End Web Developer**, and **Programmer** with expertise in:
-- **Python** and **MySQL** development.
+Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Developer**, **Junior Software Developer** and **Programmer** with expertise in:
+- **Python** and **MySQL** .
 - Creating **secure** and **user-friendly** web interfaces.
 - Passionately diving deeper into **Bug Hunting** to uncover vulnerabilities and make the tech ecosystem safer.
 
