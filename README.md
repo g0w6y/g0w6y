@@ -21,14 +21,17 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Front-E
 - **Bug Hunting**: Focused on uncovering and analyzing vulnerabilities.
 
 ---
+### 📊 GitHub Stats
+
 <div align="center">
-  <!-- GitHub Stats -->
-  <h2>📊 GitHub Stats</h2>
-  <div style="display: flex; justify-content: center; gap: 40px;">
-    <!-- GitHub Stats Card -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inte6cept0r&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </div>
+  <img src="https://streak-stats.demolab.com?user=inte6cept0r&theme=radical&hide_border=true" alt="inte6cept0r's GitHub Stats" />
 </div>
+
+---
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inte6cept0r&layout=compact&theme=radical)
 
 ---
 
