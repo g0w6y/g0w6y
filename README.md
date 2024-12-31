@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Gouri Sankar A [ Inte6cept0r ] </h1>
+<h1 align="center">👨‍💻 Gouri Sankar A [ Interceptor ] </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Web+Developer;Programmer;Aspiring+Advanced+Bug+Hunter;Always+Up+for+Collaboration!" alt="Typing Animation">
@@ -24,14 +24,14 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Dev
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=inte6cept0r&theme=radical&hide_border=true" alt="inte6cept0r's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=g0w6y&theme=radical&hide_border=true" alt="inte6cept0r's GitHub Stats" />
 </div>
 
 ---
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inte6cept0r&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g0w6y&layout=compact&theme=radical)
 
 ---
 
@@ -46,10 +46,10 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Dev
 
 ### 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://github.com/Inte6cept0r" target="_blank">
+  <a href="https://github.com/g0w6y" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto: gourisankara357@gmail.com" target="_blank">
+  <a href="mailto: " target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -57,7 +57,7 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Dev
 ---
 <h2>📊 Profile Views</h2>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Inte6cept0r/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/g0w6y/count.svg" alt="Visitor Count" />
 </div>
 
 ### 
