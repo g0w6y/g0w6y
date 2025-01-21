@@ -24,7 +24,7 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Dev
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=g0w6y&theme=radical&hide_border=true" alt="inte6cept0r's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=g0w6y&theme=radical&hide_border=true" alt="g0w6y's GitHub Stats" />
 </div>
 
 ---
