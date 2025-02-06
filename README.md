@@ -32,6 +32,13 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Dev
 ### 🚀 Projects
 - **[Vulnx](https://g0w6y.github.io/Vulnx/)** - Vulnx is a web-based tool designed to help security researchers and penetration testers identify clickjacking vulnerabilities in websites. It simplifies the process of testing for frame embedding issues by providing an intuitive interface and efficient testing capabilities.
 
+- **[IGxRT](https://github.com/g0w6y/IGxRT)** - IGxRT is a command-line tool designed to easily download Instagram content. It allows users to download profile photos, posts , specific posts via URL, and retrieve user bios. The tool offers a user-friendly interactive menu for easy navigation and usage.
+
+- **[DoxF](https://github.com/g0w6y/DoxF)** - DoxF is a Python-based command-line tool that validates and retrieves detailed information about phone numbers. It supports offline validation of phone numbers, fetching carrier details, determining line types (e.g., mobile, VOIP), and identifying the timezone and UTC offset for a given phone number's region. Additionally, it integrates with the NumVerify API to provide real-time metadata such as country and location information.
+
+
+
+
 ---
 
 ## Most Used Languages
