@@ -29,6 +29,11 @@ Hi there! 👋 I'm **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Dev
 
 ---
 
+### 🚀 Projects
+- **[Vulnx](https://g0w6y.github.io/Vulnx/)** - Vulnx is a web-based tool designed to help security researchers and penetration testers identify clickjacking vulnerabilities in websites. It simplifies the process of testing for frame embedding issues by providing an intuitive interface and efficient testing capabilities.
+
+---
+
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g0w6y&layout=compact&theme=radical)
