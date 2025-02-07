@@ -1,9 +1,4 @@
 <h1 align="center">👨‍💻 Gouri Sankar A [ g0w6y ] </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Web+Developer;Programmer;Aspiring+Advanced+Bug+Hunter;Always+Up+for+Collaboration!" alt="Typing Animation">
-</p>
-
 ---
 
 ### 🛠️ **About Me**
