@@ -6,6 +6,14 @@
 
 ---
 
+## Highlights
+- Top-tier responsible disclosure track record  
+- Multi-year Microsoft Hall of Fame recognition  
+- High-value bounty achievements  
+- Strong research background across government, enterprise, and global tech ecosystems  
+
+---
+
 ## About Me
 I’m **Gouri Sankar A**, an 18-year-old Cybersecurity Researcher, Bug Hunter, and Junior Software Developer from Kerala.  
 Self-taught in ethical hacking and secure development, I focus on discovering high-impact vulnerabilities and improving security across web and cloud systems through responsible disclosure.
@@ -15,7 +23,7 @@ Self-taught in ethical hacking and secure development, I focus on discovering hi
 ## Security Credentials
 
 ### High-Impact Vulnerability Disclosures
-Reported significant vulnerabilities to government and private-sector platforms, including:
+Reported significant vulnerabilities to:
 
 - kerala.gov.in  
 - mahaconnect.in  
@@ -25,7 +33,7 @@ Reported significant vulnerabilities to government and private-sector platforms,
 
 ### Recognition & Achievements
 - 7× Microsoft Hall of Fame  
-- High-value bounty achievements  
+- High-value bounty rewards  
 - Acknowledgements from multiple national and international security teams  
 
 ### Disclosures to Global Organisations
@@ -36,9 +44,19 @@ Reported significant vulnerabilities to government and private-sector platforms,
 - NFL (National Football League)  
 - IIT Kharagpur  
 - IIT Patna  
-- Several additional enterprise platforms  
+- Additional enterprise security programs  
 
-Focus areas include logic flaws, access control issues, misconfigurations, and exploitation paths across modern web infrastructures.
+Focus areas: logic flaws, access-control vulnerabilities, misconfigurations, and exploit-path analysis across modern web stacks.
+
+---
+
+## What I Do
+| Area | Focus |
+|------|-------|
+| Application Security | Web Pentesting, Access Control, Logic Flaws |
+| Vulnerability Research | Recon Automation, Exploit Chain Discovery |
+| Security Engineering | Hardening, Secure Backend Development |
+| Developer Tools | OSINT Utilities, CLI Tools, Security Automation |
 
 ---
 
@@ -57,19 +75,41 @@ Focus areas include logic flaws, access control issues, misconfigurations, and e
 
 ---
 
+## Security Arsenal
+- Burp Suite  
+- Nmap, FFUF, Dirsearch  
+- OSINT Frameworks  
+- Custom Recon Scripts and Automation Tools  
+- Manual + Automated Vulnerability Discovery Workflows  
+
+---
+
 ## Featured Projects
 
 ### Vulnx  
-A clickjacking detection tool designed for researchers and pentesters.  
+A clickjacking detection tool built for security researchers and pentesters.  
 Repository & Demo: https://g0w6y.github.io/Vulnx/
 
 ### IGxRT  
-A CLI-based Instagram resource extraction tool offering efficient data retrieval for analysis and automation.  
+A CLI-based Instagram scraping and resource extraction toolkit.  
 Repository: https://github.com/g0w6y/IGxRT
 
 ### DoxF  
-A phone-number intelligence and validation toolkit supporting offline lookups and structured data extraction.  
+A phone-number intelligence and offline validation utility for OSINT workflows.  
 Repository: https://github.com/g0w6y/DoxF
+
+---
+
+## Notable Mentions
+Recognized by security teams from:
+- Microsoft  
+- Panasonic  
+- Toyota  
+- Lenovo  
+- Oracle  
+- NFL  
+- IIT Kharagpur  
+- IIT Patna  
 
 ---
 
@@ -77,6 +117,13 @@ Repository: https://github.com/g0w6y/DoxF
 <div align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=g0w6y&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0w6y&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=g0w6y&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -107,4 +154,4 @@ Repository: https://github.com/g0w6y/DoxF
 
 ---
 
-<h3 align="center">Securing Today, Building Tomorrow.</h3>
+<h3 align="center">Precision. Impact. Integrity.</h3>
