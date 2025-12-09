@@ -1,9 +1,6 @@
-<!-- HEADER -->
-<h1 align="center">GOURI SANKAR A — <code>g0w6y</code></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Web+Developer+%7C+Programmer;Junior+Software+Developer;Security+Focused+%7C+Clean+and+Professional+Code">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=GOURI%20SANKAR%20A%20%7C%20g0w6y&fontSize=32&fontColor=ffffff&animation=fadeIn&color=0:020617,100:0f172a" />
 </p>
-
 
 ## About Me
 Hi there! I’m **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Developer**, **Junior Software Developer**, and **Programmer**.  
