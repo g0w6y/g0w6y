@@ -1,59 +1,61 @@
 <!-- HEADER -->
 <h1 align="center">⚡ GOURI SANKAR A — <code>g0w6y</code></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher+%7C+Bug+Hunter;7x+Microsoft+HOF+%7C+High-Value+Bounty+Hunter;Software+Developer+%7C+Web+Developer;Breaking+%26+Securing+the+Digital+World" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher+%7C+Bug+Hunter;7x+Microsoft+Hall+of+Fame;Software+Developer+%7C+Pentester;Securing+%26+Building+the+Digital+World">
 </p>
 
 ---
 
 ## 🔒 About Me
-I’m **Gouri Sankar A**, a **Cybersecurity Researcher**, **Bug Hunter**, and **Software Developer** focused on building and securing scalable digital systems.
-
-My work spans both **government** and **private sectors**, uncovering impactful vulnerabilities and improving security across critical platforms.
+I’m **Gouri Sankar A**, an 18-year-old **Cybersecurity Researcher**, **Bug Hunter**, and **Junior Software Developer** from Kerala.  
+Self-taught in ethical hacking and secure web engineering, I specialize in discovering high-impact vulnerabilities and strengthening digital infrastructure through responsible disclosure.
 
 ---
 
 ## 🛡️ Security Credentials
-### ✔ High-Impact Vulnerability Disclosures
-Reported critical vulnerabilities to:
 
-- **kerala.gov.in**  
-- **mahaconnect.in**  
-- **gjust.ac.in**  
-- **ncert.nic.in**  
-- **lsgkerala.gov.in**  
+### ✔ High-Impact Reports to Govt & Private Sector
+I have responsibly disclosed impactful vulnerabilities to:
 
-### ✔ Industry Recognition & Rewards
-- **7× Microsoft Hall of Fame (HoF)**  
-- **$$$$$+ Digit Bounty Achievements**  
-- Acknowledged by multiple government and enterprise security teams  
+- **kerala.gov.in**
+- **mahaconnect.in**
+- **gjust.ac.in**
+- **ncert.nic.in**
+- **lsgkerala.gov.in**
 
-### ✔ Responsible Disclosure to Global Organisations
-- **Panasonic**, **Toyota**, **NFL**, **Oracle**, **Lenovo**  
-- **IIT Kharagpur**, **IIT Patna**, and others  
+### ✔ Industry Recognition
+- **7× Microsoft Hall of Fame**
+- **High-value ($$$$$) bounty achievements**
+- Multiple acknowledgements from global security teams
 
-💡 *I specialize in identifying logic flaws, access control issues, misconfigurations, and exploitation paths across web and cloud infrastructures.*
+### ✔ Disclosures to International Organisations
+- **Panasonic**, **Toyota**, **Oracle**, **Lenovo**
+- **NFL (National Football League)**
+- **IIT Kharagpur**, **IIT Patna**, and more  
+
+💡 **Focus Areas:** Logic flaws, access-control issues, misconfigurations, and complex exploitation chains across web & cloud environments.
 
 ---
 
-## 🚀 Professional Skillset
+## 🚀 Skills & Technologies
+
 ### 🧠 Core Expertise
-- **Cybersecurity Research & Pentesting**
-- **Bug Hunting / Vulnerability Discovery**
-- **Backend & Automation Development**
-- **Secure Web Engineering**
+- Cybersecurity Research & Web Pentesting  
+- Bug Hunting / Vulnerability Discovery  
+- Backend Development & Automation  
+- Secure Web Application Engineering  
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux,mysql,git,github,vscode"/>
 </p>
 
 ---
 
 ## 🧪 Featured Projects
+
 ### 🔹 **Vulnx**
-Clickjacking detection tool for researchers & pentesters  
+Clickjacking detection tool for security researchers  
 🔗 https://g0w6y.github.io/Vulnx/
 
 ### 🔹 **IGxRT**
@@ -66,7 +68,7 @@ Phone number intelligence tool with offline validation
 
 ---
 
-## 📊 GitHub Metrics (Clean & Minimal)
+## 📊 GitHub Metrics
 <div align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=g0w6y&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0w6y&layout=compact&theme=tokyonight&hide_border=true" />
@@ -74,7 +76,7 @@ Phone number intelligence tool with offline validation
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Graph Animation
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
@@ -84,12 +86,12 @@ Phone number intelligence tool with offline validation
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/g0w6y"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 👁️ Profile Views
+## 👁️ Profile Views  
 <p align="center">
   <img src="https://profile-counter.glitch.me/g0w6y/count.svg" />
 </p>
