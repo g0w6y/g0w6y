@@ -30,11 +30,16 @@ Recognized by security teams from:
 Additional acknowledgements across government and enterprise programs for responsible vulnerability disclosures.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g0w6y&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g0w6y&theme=tokyonight" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g0w6y&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g0w6y&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
