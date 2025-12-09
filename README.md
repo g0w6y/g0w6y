@@ -4,14 +4,14 @@
 </p>
 
 ## About Me
-Hi there! I’m **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Developer**, **Junior Software Developer**, and **Programmer**.  
+Hi there! I’m **Gouri Sankar A**, a **Cybersecurity Researcher**, **Junior Software Developer**
 My work focuses on:
 
 - Building **secure**, **clean**, and **user-friendly** web interfaces  
 - Developing tools using **Python**
 - Deep-diving into **Bug Hunting**, uncovering vulnerabilities, and contributing to a safer digital ecosystem  
 
-Security and development go hand-in-hand, and I enjoy working at the intersection of both.
+Security and development go hand in hand, and I enjoy working at the intersection of both.
 
 ## Notable Mentions
 Recognized by security teams from:
