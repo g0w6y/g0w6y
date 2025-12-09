@@ -10,20 +10,20 @@
 - Top-tier responsible disclosure track record  
 - Multi-year Microsoft Hall of Fame recognition  
 - High-value bounty achievements  
-- Strong research background across government, enterprise, and global tech ecosystems  
+- Research contributions across government, enterprise, and global tech ecosystems  
 
 ---
 
 ## About Me
 I’m **Gouri Sankar A**, an 18-year-old Cybersecurity Researcher, Bug Hunter, and Junior Software Developer from Kerala.  
-Self-taught in ethical hacking and secure development, I focus on discovering high-impact vulnerabilities and improving security across web and cloud systems through responsible disclosure.
+Self-taught in ethical hacking and secure development, focused on discovering high-impact vulnerabilities and strengthening web and cloud infrastructures through responsible disclosure.
 
 ---
 
 ## Security Credentials
 
 ### High-Impact Vulnerability Disclosures
-Reported significant vulnerabilities to:
+Reported impactful vulnerabilities to:
 
 - kerala.gov.in  
 - mahaconnect.in  
@@ -34,19 +34,19 @@ Reported significant vulnerabilities to:
 ### Recognition & Achievements
 - 7× Microsoft Hall of Fame  
 - High-value bounty rewards  
-- Acknowledgements from multiple national and international security teams  
+- Multiple acknowledgements from international security teams  
 
 ### Disclosures to Global Organisations
 - Panasonic  
 - Toyota  
 - Oracle  
 - Lenovo  
-- NFL (National Football League)  
+- NFL  
 - IIT Kharagpur  
 - IIT Patna  
-- Additional enterprise security programs  
+- Additional enterprise programs  
 
-Focus areas: logic flaws, access-control vulnerabilities, misconfigurations, and exploit-path analysis across modern web stacks.
+Focus areas: logic flaws, access-control issues, misconfigurations, and exploit-path analysis.
 
 ---
 
@@ -63,10 +63,10 @@ Focus areas: logic flaws, access-control vulnerabilities, misconfigurations, and
 ## Skills & Technologies
 
 ### Core Expertise
-- Cybersecurity Research & Web Application Pentesting  
-- Bug Hunting / Vulnerability Discovery  
-- Backend Development & Security Automation  
-- Secure Web Engineering  
+- Web Application Pentesting  
+- Vulnerability Research  
+- Backend Development & Automation  
+- Secure Software Engineering  
 
 ### Tech Stack
 <p align="center">
@@ -79,24 +79,24 @@ Focus areas: logic flaws, access-control vulnerabilities, misconfigurations, and
 - Burp Suite  
 - Nmap, FFUF, Dirsearch  
 - OSINT Frameworks  
-- Custom Recon Scripts and Automation Tools  
-- Manual + Automated Vulnerability Discovery Workflows  
+- Custom Recon Scripts & Automation Tools  
+- Hybrid Manual + Automated Vulnerability Discovery  
 
 ---
 
 ## Featured Projects
 
 ### Vulnx  
-A clickjacking detection tool built for security researchers and pentesters.  
-Repository & Demo: https://g0w6y.github.io/Vulnx/
+Clickjacking detection tool built for researchers and pentesters.  
+Demo: https://g0w6y.github.io/Vulnx/
 
 ### IGxRT  
-A CLI-based Instagram scraping and resource extraction toolkit.  
-Repository: https://github.com/g0w6y/IGxRT
+CLI-based Instagram resource extraction toolkit.  
+Repo: https://github.com/g0w6y/IGxRT
 
 ### DoxF  
-A phone-number intelligence and offline validation utility for OSINT workflows.  
-Repository: https://github.com/g0w6y/DoxF
+Phone-number intelligence and offline validation utility.  
+Repo: https://github.com/g0w6y/DoxF
 
 ---
 
@@ -113,17 +113,55 @@ Recognized by security teams from:
 
 ---
 
-## GitHub Metrics
+# Advanced GitHub Visuals
+
+## Activity Graph (Dark Mode)
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=g0w6y&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0w6y&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=g0w6y&theme=github-dark&hide_border=true" />
 </div>
 
 ---
 
-## Activity Graph
+## Profile Trophy Wall
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=g0w6y&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=g0w6y&theme=matrix&no-frame=true&no-bg=true&column=4" />
+</div>
+
+---
+
+## GitHub Stats Overview (Premium Trio)
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=g0w6y&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0w6y&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=g0w6y&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## Summary Dashboard
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g0w6y&theme=tokyonight" />
+</div>
+
+---
+
+## Languages Used
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g0w6y&theme=tokyonight" />
+</div>
+
+---
+
+## Repo Analytics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g0w6y&theme=tokyonight" />
+</div>
+
+---
+
+## Productive Hours Timeline
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g0w6y&theme=tokyonight" />
 </div>
 
 ---
@@ -135,7 +173,7 @@ Recognized by security teams from:
 
 ---
 
-## Connect With Me
+## Social Profiles
 <p align="center">
   <a href="https://instagram.com/g0w6y"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"></a>
   <a href="https://facebook.com/g0w6y"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook"></a>
