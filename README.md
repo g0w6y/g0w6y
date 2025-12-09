@@ -8,7 +8,7 @@ Hi there! I’m **Gouri Sankar A**, a **Cybersecurity Researcher**, **Web Develo
 My work focuses on:
 
 - Building **secure**, **clean**, and **user-friendly** web interfaces  
-- Developing tools using **Python** and **MySQL**  
+- Developing tools using **Python**
 - Deep-diving into **Bug Hunting**, uncovering vulnerabilities, and contributing to a safer digital ecosystem  
 
 Security and development go hand-in-hand, and I enjoy working at the intersection of both.
