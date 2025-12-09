@@ -34,21 +34,18 @@ Additional acknowledgements across government and enterprise programs for respon
 
 ---
 
-## Summary Dashboard
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g0w6y&theme=tokyonight" />
 </div>
 
 ---
 
-## Productive Hours Timeline
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g0w6y&theme=tokyonight" />
 </div>
 
 ---
 
-## Activity Graph (Dark Mode)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=g0w6y&theme=github-dark&hide_border=true" />
 </div>
