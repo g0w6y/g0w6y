@@ -13,6 +13,8 @@ My work focuses on:
 
 Security and development go hand in hand, and I enjoy working at the intersection of both.
 
+My work has earned multiple acknowledgements, 7x HOF from Microsoft , MSRC Q2 - Q3 Leaderboard and $10k+ Bounty
+
 ## Notable Mentions
 Recognized by security teams from:
 
