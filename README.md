@@ -30,6 +30,10 @@ Recognized by security teams from:
 
 Additional acknowledgements across government and enterprise programs for responsible vulnerability disclosures.
 
+## CVE
+
+- CVE-2026-4092 ( https://github.com/advisories/GHSA-hqjg-pww4-pcgq )
+
 <div align="center">
   <table>
     <tr>
