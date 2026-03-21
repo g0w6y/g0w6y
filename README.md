@@ -33,6 +33,7 @@ Additional acknowledgements across government and enterprise programs for respon
 ## CVE
 
 - CVE-2026-4092 ( https://github.com/advisories/GHSA-hqjg-pww4-pcgq )
+- CVE-2026-21994 ( https://github.com/advisories/GHSA-g6qw-3gmw-m78m )
 
 
 
